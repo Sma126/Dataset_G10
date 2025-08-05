@@ -34,3 +34,5 @@ Es importante seleccionar las herramientas adecuadas para la obtención y grafic
 El tratamiento de los datos es un punto crítico en el análisis de la información ya que permite eliminar datos irrelevantes, lo que disminuye el porcentaje de falsos positivos.
 Recomendación:
 Compartir los hallazgos con los compañeros de clase y docente, podría ser fundamental para garantizar que los resultados tengan un impacto positivo en la sociedad.
+=======
+- Incremento de muertes y violaciones: estos resultados sugieren un aumento en la frecuencia o gravedad de estos crímenes, lo que podría ser un indicador de una situación de seguridad preocupante en la región del año 2001 al 2021
