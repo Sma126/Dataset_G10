@@ -22,3 +22,17 @@ aow_2012 = asalto[asalto['Year'] == 2012]['AoW'].iloc[0]
 promedio_aow = (aow_2010 + aow_2012) / 2
  
 - Incremento de muertes y violaciones: estos resultados sugieren un aumento en la frecuencia o gravedad de estos crímenes, lo que podría ser un indicador de una situación de seguridad preocupante en la región del año 2001 al 2021
+
+- Identificación de patrones y tendencias: al analizar los datos, se puede identificar patrones o tendencias en los crímenes, como regiones con alta incidencia de delitos en la India.
+-Tráfico de mujeres: En el período del 2010 al 2011 se observó un pico considerable el cual no debe interpretarse únicamente como un aumento real del delito, sino también como una evidencia del inicio de un proceso de reconocimiento y denuncia más amplio por parte de la sociedad en la India.
+-Agresión contra la mujer: A partir del año 2013 se observa un incremento considerable en los casos reportados. Este aumento no necesariamente indica un mayor número de agresiones, sino que puede reflejar un crecimiento en el número de denuncias, impulsado por una mayor conciencia social, el acceso a la educación y el fortalecimiento del empoderamiento femenino.
+- En general entre el 2001 y 2021, los delitos contra las mujeres en India muestran una tendencia creciente significativa, especialmente en delitos como el asalto, secuestros y el tráfico de mujeres. Este incremento no necesariamente indica un alza proporcional en la comisión de estos delitos, sino que también puede reflejar una mayor conciencia social y mejoras en los mecanismos de denuncia y registro.
+Cualquier insight o conclusión relevante
+La creación de gráficos y el análisis de datos te permitieron visualizar y comprender mejor las tendencias y patrones de los crímenes.
+La importancia de la obtención de datos para la seguridad y concientización para la comunidad; los resultados sugieren que la seguridad es un tema crítico en la región y que es necesario tomar medidas para sensibilizar en torno al tema.
+Es importante seleccionar las herramientas adecuadas para la obtención y graficación de datos garantizando que la información sea precisa y útil.
+El tratamiento de los datos es un punto crítico en el análisis de la información ya que permite eliminar datos irrelevantes, lo que disminuye el porcentaje de falsos positivos.
+Recomendación:
+Compartir los hallazgos con los compañeros de clase y docente, podría ser fundamental para garantizar que los resultados tengan un impacto positivo en la sociedad.
+=======
+- Incremento de muertes y violaciones: estos resultados sugieren un aumento en la frecuencia o gravedad de estos crímenes, lo que podría ser un indicador de una situación de seguridad preocupante en la región del año 2001 al 2021
